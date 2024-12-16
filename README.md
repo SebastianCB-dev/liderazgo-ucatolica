@@ -15,32 +15,39 @@ Este trabajo forma parte de una iniciativa de investigación liderada por **Joan
 
 ## Repositorios Relacionados
 
-El proyecto está dividido en varios repositorios que cumplen funciones específicas. Aquí encontrarás los enlaces directos:
+El proyecto está dividido en varios repositorios que cumplen funciones específicas. Aquí encontrarás los enlaces directos, organizados por su funcionalidad:
 
-### Ontología de Liderazgo MLQ
-**Repositorio:** [liderazgo-ucatolica-ontologia](https://github.com/SebastianCB-dev/liderazgo-ucatolica-ontologia)  
-**Descripción:** Contiene la ontología del liderazgo basada en las dimensiones del MLQ, incluyendo las categorías de verbos, adjetivos y sustantivos utilizados en el modelo.  
-**Acceso:** Público.
-
----
-
-### Frontend para el Cuestionario
+### 1. Frontend para el Cuestionario
 **Repositorio:** [front-leadership-project](https://github.com/SebastianCB-dev/front-leadership-project)  
 **Descripción:** Interfaz web desarrollada con **Angular** para la aplicación del cuestionario y la recolección de respuestas textuales.  
 **Acceso:** Privado. Si deseas acceso, por favor contáctame.
 
 ---
 
-### Procesamiento de Lenguaje Natural (NLP)
+### 2. Backend del Proyecto
+**Repositorio:** [back-leadership-project](https://github.com/SebastianCB-dev/back-leadership-project)  
+**Descripción:** API desarrollada con **FastAPI** para manejar la lógica de negocio, almacenar datos y facilitar la integración entre el frontend y el procesamiento de datos.  
+**Acceso:** Privado. Si deseas acceso, por favor contáctame.
+
+---
+
+### 3. Ontología de Liderazgo MLQ
+**Repositorio:** [liderazgo-ucatolica-ontologia](https://github.com/SebastianCB-dev/liderazgo-ucatolica-ontologia)  
+**Descripción:** Contiene la ontología del liderazgo basada en las dimensiones del MLQ, incluyendo las categorías de verbos, adjetivos y sustantivos utilizados en el modelo.  
+**Acceso:** Público.
+
+---
+
+### 4. Procesamiento de Lenguaje Natural (NLP)
 **Repositorio:** [preprocessing-leadership-dataset](https://github.com/SebastianCB-dev/preprocessing-leadership-dataset)  
 **Descripción:** Código en **Python** para preprocesar las respuestas del cuestionario. Incluye técnicas de limpieza, tokenización y conteo de palabras relacionadas con la ontología.  
 **Acceso:** Público.
 
 ---
 
-### Backend del Proyecto
-**Repositorio:** [back-leadership-project](https://github.com/SebastianCB-dev/back-leadership-project)  
-**Descripción:** API desarrollada con **FastAPI** para manejar la lógica de negocio, almacenar datos y facilitar la integración entre el frontend y el procesamiento de datos.  
+### 5. Evaluación de Modelos de Machine Learning
+**Repositorio:** [machine-learning-models-leadership-ucatolica](https://github.com/SebastianCB-dev/machine-learning-models-leadership-ucatolica)  
+**Descripción:** Código para entrenar y evaluar modelos de Machine Learning utilizando las respuestas etiquetadas y preprocesadas del cuestionario.  
 **Acceso:** Privado. Si deseas acceso, por favor contáctame.
 
 ---
